@@ -15,13 +15,13 @@
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full" viewBox="0 0 24 24">
               <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
             </svg>
-            <span class="ml-3 text-xl"><a href="MY first website.Html">Naruto Wallpaper</span>
+            <span class="ml-3 text-xl"><a href="MY first website.Html">Naruto Wallpaper
           </a>
           <!-- Linkks -->
           <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
-            <a href="https://www.instagram.com/bhavik_.jatrana/"><b>Instagram </a> &nbsp; &nbsp;
-            <a href="mail.html"><b>Mail Me </a> &nbsp; &nbsp;
-            <a href=""><b>Contact Us</a>
+            <a href="https://www.instagram.com/bhavik_.jatrana/"><b>Instagram &nbsp; &nbsp;
+            <a href="mail.html"><b>Mail Me &nbsp; &nbsp;
+            <a href=""><b>Contact Us
           </nav>
 
           <!-- Dragon Ball Super -->
@@ -30,8 +30,6 @@
               <path d="M5 12h14M12 5l7 7-7 7"></path>
             </svg>
           </button>
-        </div>
-      </header>
       <section class="text-gray-600 body-font">
         <div class="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
           <img class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded" alt="hero" src="https://pa1.narvii.com/6602/7d51f64554ba4817287544fb0337adb4186ae51c_hq.gif">
@@ -52,8 +50,7 @@
           </div>
           <!-- 1st -->
           <div class="container">
-            <img src="Obito.png" alt="Obito" width="550" height="600"> <br>
-            <a href="Obito.png" class="btn"download><b> Download</a>
+            <img src="Obito.png" alt="Obito" width="550" height="600" a href="Obito.png" class="btn"download><b> Download</a> <br>
           </div> 
           <br><br><br><br>
 
@@ -143,15 +140,6 @@
 
 
 <div class="container"> -->
-    <a href="Dragon Ball Super.html" class><b>Dragon Ball Super wallpapers</a>
-</div> 
+    <a href="Dragon Ball Super.html" class><b>Dragon Ball Super wallpapers 
 <br><br><br><br>
 
-
-
-
-
-    </body>
-
-<!-- Body Ends -->
-</html>
