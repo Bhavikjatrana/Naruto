@@ -16,9 +16,9 @@
               <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
             </svg>
             <span class="ml-3 text-xl"><a href="MY first website.Html">Naruto Wallpaper
-          </a>
+          </a> &nbsp;
           <!-- Linkks -->
-          <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
+          <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center"> &nbsp;
             <a href="https://www.instagram.com/bhavik_.jatrana/"><b>Instagram &nbsp; &nbsp;
             <a href="mail.html"><b>Mail Me &nbsp; &nbsp;
             <a href=""><b>Contact Us
